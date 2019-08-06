@@ -1,0 +1,7 @@
+##### NCIS S12 #####
+library(htmltab)
+
+FFL <- "https://fantasy.premierleague.com/statistics"
+
+FLLP <- htmltab(doc = FFL, which = 4)
+View(FLLP)

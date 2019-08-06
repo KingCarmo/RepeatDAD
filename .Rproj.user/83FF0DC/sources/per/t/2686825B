@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564497118805.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3067971058",
+    "id" : "2686825B",
+    "lastKnownWriteTime" : 1564500662,
+    "last_content_update" : 1564500662388,
+    "path" : "~/GitHub/RepeatDAD/NCISLA.R",
+    "project_path" : "NCISLA.R",
+    "properties" : {
+        "cursorPosition" : "6,30",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

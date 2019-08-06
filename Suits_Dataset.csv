@@ -1,0 +1,81 @@
+name,number_in_series,number_in_season,title,original_air_date,us_viewers_in_millions,season,AllSuitsRatings
+Suits,13,1,"""She Knows""","June 14, 2012",3.47,2,9.10
+Suits,14,2,"""The Choice""","June 21, 2012",3.80,2,8.50
+Suits,15,3,"""Meet the New Boss""","June 28, 2012",3.88,2,8.50
+Suits,16,4,"""Discovery""","July 12, 2012",3.70,2,8.70
+Suits,17,5,"""Break Point""","July 19, 2012",3.72,2,8.90
+Suits,18,6,"""All In""","July 26, 2012",3.89,2,8.70
+Suits,19,7,"""Sucker Punch""","August 2, 2012",3.41,2,9.20
+Suits,20,8,"""Rewind""","August 9, 2012",3.42,2,8.80
+Suits,21,9,"""Asterisk""","August 16, 2012",4.00,2,8.90
+Suits,22,10,"""High Noon""","August 23, 2012",4.49,2,9.30
+Suits,23,11,"""Blind-Sided""","January 17, 2013",3.57,2,8.40
+Suits,24,12,"""Blood in the Water""","January 24, 2013",3.75,2,8.70
+Suits,25,13,"""Zane vs. Zane""","January 31, 2013",3.36,2,8.50
+Suits,26,14,"""He's Back""","February 7, 2013",3.07,2,8.70
+Suits,27,15,"""Normandy""","February 14, 2013",2.90,2,8.60
+Suits,28,16,"""War""","February 21, 2013",3.10,2,8.90
+Suits,29,1,"""The Arrangement""","July 16, 2013",2.93,3,8.70
+Suits,30,2,"""I Want You to Want Me""","July 23, 2013",2.88,3,8.60
+Suits,31,3,"""Unfinished Business""","July 30, 2013",2.47,3,8.60
+Suits,32,4,"""Conflict of Interest""","August 6, 2013",2.99,3,8.60
+Suits,33,5,"""Shadow of a Doubt""","August 13, 2013",2.79,3,8.40
+Suits,34,6,"""The Other Time""","August 20, 2013",2.76,3,8.80
+Suits,35,7,"""She's Mine""","August 27, 2013",2.79,3,8.90
+Suits,36,8,"""Endgame""","September 3, 2013",3.52,3,8.80
+Suits,37,9,"""Bad Faith""","September 10, 2013",2.95,3,8.60
+Suits,38,10,"""Stay""","September 17, 2013",3.16,3,8.70
+Suits,39,11,"""Buried Secrets""","March 6, 2014",2.27,3,8.60
+Suits,40,12,"""Yesterday's Gone""","March 13, 2014",2.27,3,9.10
+Suits,41,13,"""Moot Point""","March 20, 2014",2.35,3,8.60
+Suits,42,14,"""Heartburn""","March 27, 2014",2.53,3,9.00
+Suits,43,15,"""Know When to Fold 'Em""","April 3, 2014",2.50,3,8.90
+Suits,44,16,"""No Way Out""","April 10, 2014",2.40,3,9.40
+Suits,45,1,"""One-Two-Three Go…""","June 11, 2014",2.50,4,8.70
+Suits,46,2,"""Breakfast, Lunch and Dinner ""","June 18, 2014",2.65,4,8.60
+Suits,47,3,"""Two in the Knees""","June 25, 2014",2.76,4,8.60
+Suits,48,4,"""Leveraged""","July 9, 2014",2.42,4,8.50
+Suits,49,5,"""Pound of Flesh""","July 16, 2014",2.33,4,8.60
+Suits,50,6,"""Litt the Hell Up""","July 23, 2014",2.70,4,9.10
+Suits,51,7,"""We're Done""","July 30, 2014",2.80,4,9.00
+Suits,52,8,"""Exposure""","August 6, 2014",2.59,4,9.10
+Suits,53,9,"""Gone""","August 13, 2014",2.58,4,9.40
+Suits,54,10,"""This Is Rome""","August 20, 2014",2.76,4,9.60
+Suits,55,11,"""Enough Is Enough""","January 28, 2015",1.87,4,9.10
+Suits,56,12,"""Respect""","February 4, 2015",1.67,4,8.60
+Suits,57,13,"""Fork in the Road""","February 11, 2015",1.46,4,9.00
+Suits,58,14,"""Derailed""","February 18, 2015",1.70,4,8.80
+Suits,59,15,"""Intent""","February 25, 2015",1.80,4,9.30
+Suits,60,16,"""Not Just a Pretty Face""","March 4, 2015",1.55,4,9.10
+Suits,61,1,"""Denial""","June 24, 2015",2.13,5,9.00
+Suits,62,2,"""Compensation""","July 1, 2015",2.27,5,8.80
+Suits,63,3,"""No Refills""","July 8, 2015",2.16,5,9.00
+Suits,64,4,"""No Puedo Hacerlo""","July 15, 2015",2.38,5,9.20
+Suits,65,5,"""Toe to Toe""","July 22, 2015",2.09,5,8.80
+Suits,66,6,"""Privilege""","July 29, 2015",2.16,5,8.90
+Suits,67,7,"""Hitting Home""","August 5, 2015",2.08,5,9.40
+Suits,68,8,"""Mea Culpa""","August 12, 2015",2.31,5,9.20
+Suits,69,9,"""Uninvited Guests""","August 19, 2015",2.30,5,9.10
+Suits,70,10,"""Faith""","August 26, 2015",2.34,5,9.80
+Suits,71,11,"""Blowback""","January 27, 2016",1.74,5,9.40
+Suits,72,12,"""Live to Fight""","February 3, 2016",1.51,5,9.10
+Suits,73,13,"""God's Green Earth""","February 10, 2016",1.71,5,9.00
+Suits,74,14,"""Self Defense""","February 17, 2016",1.58,5,9.50
+Suits,75,15,"""Tick Tock""","February 24, 2016",1.73,5,9.60
+Suits,76,16,"""25th Hour""","March 2, 2016",1.71,5,9.40
+Suits,77,1,"""Right-Hand Man""","July 18, 2018",1.27,6,7.40
+Suits,78,2,"""Pecking Order""","July 25, 2018",1.18,6,7.60
+Suits,79,3,"""Promises, Promises""","August 1, 2018",1.16,6,7.90
+Suits,80,4,"""Revenue Per Square Foot""","August 8, 2018",1.09,6,7.80
+Suits,81,6,"""Good Mudding""","August 15, 2018",1.15,6,8.00
+Suits,82,6,"""Cats, Ballet, Harvey Specter""","August 22, 2018",1.22,6,8.30
+Suits,83,7,"""Sour Grapes""","August 29, 2018",1.13,6,7.90
+Suits,84,8,"""Coral Gables""","September 5, 2018",1.30,6,7.50
+Suits,85,9,"""Motion to Delay""","September 12, 2018",1.07,6,7.70
+Suits,86,10,"""Managing Partner""","September 19, 2018",1.08,6,9.00
+Suits,87,11,"""Rocky 8""","January 23, 2019",0.82,6,7.90
+Suits,88,12,"""Whale Hunt""","January 30, 2019",0.91,6,7.90
+Suits,89,13,"""The Greater Good""","February 6, 2019",0.77,6,8.10
+Suits,90,14,"""Peas in a Pod""","February 13, 2019",0.78,6,8.50
+Suits,91,15,"""Stalking Horse""","February 20, 2019",0.69,6,8.30
+Suits,92,16,"""Harvey""","February 27, 2019",0.74,6,9.10
