@@ -512,21 +512,23 @@ S5EP24 <- NCISLAS5Rating %>%
   html_nodes(xpath = '//*[@id="episodes_content"]/div[2]/div[2]/div[24]/div[2]/div[2]/div[1]/span[2]') %>%
   html_text()
 
-NCISLAS1S5Rating <- as.data.frame(as.double(cbind(S1EP1, S1EP2, S1EP3, S1EP4, S1EP5, S1EP6, S1EP7, S1EP8, S1EP9, S1EP10, S1EP11, S1EP12, S1EP13, S1EP14, S1EP15, S1EP16,S1EP17,S1EP18,S1EP19,S1EP20,S1EP21,S1EP22,S1EP23,S1EP24,
+Ratings <- as.data.frame(as.double(cbind(S1EP1, S1EP2, S1EP3, S1EP4, S1EP5, S1EP6, S1EP7, S1EP8, S1EP9, S1EP10, S1EP11, S1EP12, S1EP13, S1EP14, S1EP15, S1EP16,S1EP17,S1EP18,S1EP19,S1EP20,S1EP21,S1EP22,S1EP23,S1EP24,
                                                   S2EP1, S2EP2, S2EP3, S2EP4, S2EP5, S2EP6, S2EP7, S2EP8, S2EP9, S2EP10, S2EP11, S2EP12, S2EP13, S2EP14, S2EP15, S2EP16, S2EP17,S2EP18,S2EP19,S2EP20,S2EP21,S2EP22,S2EP23,S2EP24,
                                                   S3EP1, S3EP2, S3EP3, S3EP4, S3EP5, S3EP6, S3EP7, S3EP8, S3EP9, S3EP10, S3EP11, S3EP12, S3EP13, S3EP14, S3EP15, S3EP16,S3EP17,S3EP18,S3EP19,S3EP20,S3EP21,S3EP22,S3EP23,S3EP24,
                                                   S4EP1, S4EP2, S4EP3, S4EP4, S4EP5, S4EP6, S4EP7, S4EP8, S4EP9, S4EP10, S4EP11, S4EP12, S4EP13, S4EP14, S4EP15, S4EP16,S4EP17,S4EP18,S4EP19,S4EP20,S4EP21,S4EP22,S4EP23,S4EP24,
                                                   S5EP1, S5EP2, S5EP3, S5EP4, S5EP5, S5EP6, S5EP7, S5EP8, S5EP9, S5EP10, S5EP11, S5EP12, S5EP13, S5EP14, S5EP15, S5EP16,S5EP17,S5EP18,S5EP19,S5EP20,S5EP21,S5EP22,S5EP23,S5EP24
 )))
 
-colnames(NCISLAS1S5Rating)
-names(NCISLAS1S5Rating)[1] <- "AllNCISLARatings"
+colnames(Ratings)
+names(Ratings)[1] <- "Ratings"
 
 ##### Combining Code ######
-NCISLA <- cbind(NCISLA, NCISLAS1S5Rating)
+NCISLA <- cbind(NCISLA, Ratings)
 
 ##### Cleaning #####
-NCISLA$original_air_date <- as.Date(NCISLA$original_air_date) 
+NCISLA$viewers <- as.double(NCISLA$viewers)
+NCISLA$Ratings <- as.double(NCISLA$Ratings)
+
 
 ##### Creating NCIS CSV Files #####
 write.csv((NCISLA), "NCISLA_Dataset.csv")

@@ -30,7 +30,7 @@ SuitsS2$number_in_series<- c(13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28)
 SuitsS2$number_in_season <- c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16)
 colnames(SuitsS2)[2] <- "title"
 colnames(SuitsS2)[3] <- "original_air_date"
-colnames(SuitsS2)[4] <- "us_viewers_in_millions"
+colnames(SuitsS2)[4] <- "viewers"
 
 SuitsS2 <- SuitsS2[,c(6,1,7,2,3,4,5)]
 
@@ -59,7 +59,7 @@ SuitsS3$number_in_series<- c(29:44)
 SuitsS3$number_in_season <- c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16)
 colnames(SuitsS3)[2] <- "title"
 colnames(SuitsS3)[3] <- "original_air_date"
-colnames(SuitsS3)[4] <- "us_viewers_in_millions"
+colnames(SuitsS3)[4] <- "viewers"
 
 SuitsS3 <- SuitsS3[,c(6,1,7,2,3,4,5)]
 
@@ -88,7 +88,7 @@ SuitsS4$number_in_series<- c(45:60)
 SuitsS4$number_in_season <- c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16)
 colnames(SuitsS4)[2] <- "title"
 colnames(SuitsS4)[3] <- "original_air_date"
-colnames(SuitsS4)[4] <- "us_viewers_in_millions"
+colnames(SuitsS4)[4] <- "viewers"
 
 SuitsS4 <- SuitsS4[,c(6,1,7,2,3,4,5)]
 
@@ -117,7 +117,7 @@ SuitsS5$number_in_series<- c(61:76)
 SuitsS5$number_in_season <- c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16)
 colnames(SuitsS5)[2] <- "title"
 colnames(SuitsS5)[3] <- "original_air_date"
-colnames(SuitsS5)[4] <- "us_viewers_in_millions"
+colnames(SuitsS5)[4] <- "viewers"
 
 SuitsS5 <- SuitsS5[,c(6,1,7,2,3,4,5)]
 
@@ -147,7 +147,7 @@ SuitsS6$number_in_series<- c(77:92)
 SuitsS6$number_in_season <- c(1,2,3,4,6,6,7,8,9,10,11,12,13,14,15,16)
 colnames(SuitsS6)[2] <- "title"
 colnames(SuitsS6)[3] <- "original_air_date"
-colnames(SuitsS6)[4] <- "us_viewers_in_millions"
+colnames(SuitsS6)[4] <- "viewers"
 
 SuitsS6 <- SuitsS6[,c(6,1,7,2,3,4,5)]
 
@@ -503,19 +503,22 @@ S6EP16 <- SuitsS6Rating %>%
   html_text()
 
 
-SuitsS2S6Rating <- as.data.frame(as.double(cbind(S2EP1, S2EP2, S2EP3, S2EP4, S2EP5, S2EP6, S2EP7, S2EP8, S2EP9, S2EP10, S2EP11, S2EP12, S2EP13, S2EP14, S2EP15, S2EP16,
+Ratings <- as.data.frame(as.double(cbind(S2EP1, S2EP2, S2EP3, S2EP4, S2EP5, S2EP6, S2EP7, S2EP8, S2EP9, S2EP10, S2EP11, S2EP12, S2EP13, S2EP14, S2EP15, S2EP16,
                                                   S3EP1, S3EP2, S3EP3, S3EP4, S3EP5, S3EP6, S3EP7, S3EP8, S3EP9, S3EP10, S3EP11, S3EP12, S3EP13, S3EP14, S3EP15, S3EP16,
                                                   S4EP1, S4EP2, S4EP3, S4EP4, S4EP5, S4EP6, S4EP7, S4EP8, S4EP9, S4EP10, S4EP11, S4EP12, S4EP13, S4EP14, S4EP15, S4EP16,
                                                    S5EP1, S5EP2, S5EP3, S5EP4, S5EP5, S5EP6, S5EP7, S5EP8, S5EP9, S5EP10, S5EP11, S5EP12, S5EP13, S5EP14, S5EP15, S5EP16,
                                                    S6EP1, S6EP2, S6EP3, S6EP4, S6EP5, S6EP6, S6EP7, S6EP8, S6EP9, S6EP10, S6EP11, S6EP12, S6EP13, S6EP14, S6EP15, S6EP16
                                                  )))
 
-colnames(SuitsS2S6Rating)
-names(SuitsS2S6Rating)[1] <- "AllSuitsRatings"
+colnames(Ratings)
+names(Ratings)[1] <- "Ratings"
 
 ##### Combining Code ######
 SuitsFull <- rbind(SuitsS2, SuitsS3, SuitsS4, SuitsS5, SuitsS6)
-SuitsFull <- cbind(SuitsFull, SuitsS2S6Rating)
+SuitsFull <- cbind(SuitsFull, Ratings)
+
+SuitsFull$viewers <- as.double(SuitsFull$viewers)
+SuitsFull$Ratings <- as.double(SuitsFull$Ratings)
 
 ##### Creating Suits CSV Files #####
 write.csv((SuitsFull), "Suits_Dataset.csv")

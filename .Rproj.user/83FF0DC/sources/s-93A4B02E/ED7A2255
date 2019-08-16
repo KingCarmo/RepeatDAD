@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564405235182.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3037887046",
+    "id" : "ED7A2255",
+    "lastKnownWriteTime" : 1565172356,
+    "last_content_update" : 1565172356586,
+    "path" : "~/GitHub/RepeatDAD/NCIS.R",
+    "project_path" : "NCIS.R",
+    "properties" : {
+        "cursorPosition" : "689,0",
+        "scrollLine" : "658",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
