@@ -4,7 +4,6 @@ library(htmltab)
 url6 <- "https://en.wikipedia.org/wiki/NCIS_(season_12)"
 
 NcisS12 <- htmltab(doc = url6, which = 4)
-View(NcisS12)
 
 rownames(NcisS12) <- c(1:24)
 
@@ -28,7 +27,6 @@ colnames(NcisS12)[3] <- "viewers"
 colnames(NcisS12)[6] <- "number_in_series"
 
 NcisS12 <- NcisS12[,c(5,6,7,1,2,3,4)]
-View(NcisS12)
 
 ##### NCIS S13 #####
 library(htmltab)
@@ -36,7 +34,7 @@ library(htmltab)
 url7 <- "https://en.wikipedia.org/wiki/NCIS_(season_13)"
 
 NcisS13 <- htmltab(doc = url7, which = 3)
-View(NcisS13)
+
 
 rownames(NcisS13) <- c(1:24)
 
@@ -60,7 +58,7 @@ colnames(NcisS13)[2] <- "original_air_date"
 colnames(NcisS13)[3] <- "viewers"
 
 NcisS13 <- NcisS13[,c(5,6,7,1,2,3,4)]
-View(NcisS13)
+
 
 ##### NCIS S14 #####
 library(htmltab)
@@ -68,7 +66,7 @@ library(htmltab)
 url8 <- "https://en.wikipedia.org/wiki/NCIS_(season_14)"
 
 NcisS14 <- htmltab(doc = url8, which = 3)
-View(NcisS14)
+
 
 rownames(NcisS14) <- c(1:24)
 
@@ -92,7 +90,6 @@ colnames(NcisS14)[2] <- "original_air_date"
 colnames(NcisS14)[3] <- "viewers"
 
 NcisS14 <- NcisS14[,c(5,6,7,1,2,3,4)]
-View(NcisS14)
 
 ##### NCIS S15 #####
 library(htmltab)
@@ -100,7 +97,6 @@ library(htmltab)
 url9 <- "https://en.wikipedia.org/wiki/NCIS_(season_15)"
 
 NcisS15 <- htmltab(doc = url9, which = 3)
-View(NcisS15)
 
 rownames(NcisS15) <- c(1:24)
 
@@ -124,7 +120,6 @@ colnames(NcisS15)[2] <- "original_air_date"
 colnames(NcisS15)[3] <- "viewers"
 
 NcisS15 <- NcisS15[,c(5,6,7,1,2,3,4)]
-View(NcisS15)
 
 ##### NCIS S16 #####
 library(htmltab)
@@ -132,7 +127,6 @@ library(htmltab)
 url10 <- "https://en.wikipedia.org/wiki/NCIS_(season_16)"
 
 NcisS16 <- htmltab(doc = url10, which = 3)
-View(NcisS16)
 
 rownames(NcisS16) <- c(1:24)
 
@@ -156,7 +150,6 @@ colnames(NcisS16)[2] <- "original_air_date"
 colnames(NcisS16)[3] <- "viewers"
 
 NcisS16 <- NcisS16[,c(5,6,7,1,2,3,4)]
-View(NcisS16)
 
 
 #install.packages("rvest")

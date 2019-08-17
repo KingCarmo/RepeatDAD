@@ -1,0 +1,18 @@
+Hi,
+
+AllCode.R is main code for this project
+
+NCIS.R
+NCIS:LA.R
+Suits.R
+
+Those three are combined into an R Script called AllCode.R
+
+There is an error with RStudio it's self as some code does not get scrapped when running all the code at once. 
+You will have to run line by line to get all data scrapped. It's a hassle, I know.
+
+There is also pictures of the MapReduce results in the folder in which you will see the commands I used to
+gather all Top20 Data. 
+
+Regards,
+Kevin Carmody

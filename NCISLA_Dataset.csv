@@ -1,121 +1,121 @@
-,name,number_in_series,number_in_season,Title,original_air_date,viewers,Season,Ratings
-1,ncisla,1,1,"""Identity""","September 22, 2009",18.73,1,7.5
-2,ncisla,2,2,"""The Only Easy Day""","September 29, 2009",17.42,1,7.2
-3,ncisla,3,3,"""Predator""","October 6, 2009",16.31,1,7.4
-4,ncisla,4,4,"""Search and Destroy""","October 13, 2009",15.32,1,7.6
-5,ncisla,5,5,"""Killshot""","October 20, 2009",16.5,1,7.6
-6,ncisla,6,6,"""Keepin' It Real""","November 3, 2009",15.29,1,7.6
-7,ncisla,7,7,"""Pushback""","November 10, 2009",16.19,1,7.9
-8,ncisla,8,8,"""Ambush""","November 17, 2009",14.81,1,7.9
-9,ncisla,9,9,"""Random on Purpose""","November 24, 2009",17.18,1,8.1
-10,ncisla,10,10,"""Brimstone""","December 15, 2009",17.36,1,7.4
-11,ncisla,11,11,"""Breach""","January 5, 2010",18.07,1,7.4
-12,ncisla,12,12,"""Past Lives""","January 12, 2010",15.5,1,7.9
-13,ncisla,13,13,"""Missing""","January 26, 2010",17.16,1,7.9
-14,ncisla,14,14,"""LD50""","February 2, 2010",16.42,1,7.7
-15,ncisla,15,15,"""The Bank Job""","February 9, 2010",17.91,1,7.9
-16,ncisla,16,16,"""Chinatown""","March 2, 2010",14.97,1,7.5
-17,ncisla,17,17,"""Full Throttle""","March 9, 2010",16.99,1,7.4
-18,ncisla,18,18,"""Blood Brothers""","March 16, 2010",15.1,1,7.6
-19,ncisla,19,19,"""Hand-to-Hand""","April 6, 2010",13.79,1,7.9
-20,ncisla,20,20,"""Fame""","April 27, 2010",15.62,1,7.9
-21,ncisla,21,21,"""Found""","May 4, 2010",14.34,1,8.1
-22,ncisla,22,22,"""Hunted""","May 11, 2010",16.04,1,7.6
-23,ncisla,23,23,"""Burned""","May 18, 2010",15.23,1,8
-24,ncisla,24,24,"""Callen, G.""","May 25, 2010",13.12,1,8
-25,ncisla,25,1,"""Human Traffic""","September 21, 2010",15.76,2,8
-26,ncisla,26,2,"""Black Widow""","September 21, 2010",13.6,2,7.9
-27,ncisla,27,3,"""Borderline""","September 28, 2010",16.51,2,7.8
-28,ncisla,28,4,"""Special Delivery""","October 5, 2010",16.15,2,7.8
-29,ncisla,29,5,"""Little Angels""","October 12, 2010",16.05,2,7.9
-30,ncisla,30,6,"""Standoff""","October 19, 2010",16,2,7.9
-31,ncisla,31,7,"""Anonymous""","October 26, 2010",15.99,2,7.9
-32,ncisla,32,8,"""Bounty""","November 9, 2010",15.61,2,7.9
-33,ncisla,33,9,"""Absolution""","November 16, 2010",15.81,2,7.9
-34,ncisla,34,10,"""Deliverance""","November 23, 2010",14.96,2,8
-35,ncisla,35,11,"""Disorder""","December 14, 2010",16.82,2,7.9
-36,ncisla,36,12,"""Overwatch""","January 11, 2011",18.13,2,7.7
-37,ncisla,37,13,"""Archangel""","January 18, 2011",17.29,2,7.9
-38,ncisla,38,14,"""Lockup""","February 1, 2011",17.7,2,7.8
-39,ncisla,39,15,"""Tin Soldiers""","February 8, 2011",17.16,2,7.8
-40,ncisla,40,16,"""Empty Quiver""","February 15, 2011",16.8,2,7.9
-41,ncisla,41,17,"""Personal""","February 22, 2011",18.69,2,8.2
-42,ncisla,42,18,"""Harm's Way""","March 1, 2011",15.67,2,7.8
-43,ncisla,43,19,"""Enemy Within""","March 22, 2011",16.56,2,7.8
-44,ncisla,44,20,"""The Job""","March 29, 2011",15.34,2,7.9
-45,ncisla,45,21,"""Rocket Man""","April 12, 2011",15.46,2,7.8
-46,ncisla,46,22,"""Plan B.""","May 3, 2011",14.16,2,8.1
-47,ncisla,47,23,"""Imposters""","May 10, 2011",14.74,2,7.8
-48,ncisla,48,24,"""Familia""","May 17, 2011",15.61,2,8.2
-49,ncisla,49,1,"""Lange, H.""","September 20, 2011",16.71,3,8.2
-50,ncisla,50,2,"""Cyber Threat""","September 27, 2011",16.26,3,7.9
-51,ncisla,51,3,"""Backstopped""","October 4, 2011",14.78,3,8
-52,ncisla,52,4,"""Deadline""","October 11, 2011",15.4,3,7.7
-53,ncisla,53,5,"""Sacrifice""","October 18, 2011",15.35,3,7.8
-54,ncisla,54,6,"""Lone Wolf""","October 25, 2011",15.89,3,7.8
-55,ncisla,55,7,"""Honor""","November 1, 2011",15.52,3,7.9
-56,ncisla,56,8,"""Greed""","November 8, 2011",15.66,3,7.9
-57,ncisla,57,9,"""Betrayal""","November 15, 2011",15.15,3,8
-58,ncisla,58,10,"""The Debt""","November 22, 2011",14.09,3,8.2
-59,ncisla,59,11,"""Higher Power""","December 13, 2011",16.4,3,7.9
-60,ncisla,60,12,"""The Watchers""","January 3, 2012",17.08,3,7.9
-61,ncisla,61,13,"""Exit Strategy""","January 10, 2012",16.6,3,7.8
-62,ncisla,62,14,"""Partners""","February 7, 2012",16.27,3,8
-63,ncisla,63,15,"""Crimeleon""","February 14, 2012",16.15,3,8.2
-64,ncisla,64,16,"""Blye, K.""","February 21, 2012",15.47,3,8.3
-65,ncisla,65,17,"""Blye, K., Part 2""","February 28, 2012",15.85,3,8.4
-66,ncisla,66,18,"""The Dragon and the Fairy""","March 20, 2012",16.17,3,8
-67,ncisla,67,19,"""Vengeance""","March 27, 2012",14.75,3,7.7
-68,ncisla,68,20,"""Patriot Acts""","April 10, 2012",12.86,3,7.9
-69,ncisla,69,21,"""Touch of Death""","May 1, 2012",15.21,3,8
-70,ncisla,70,22,"""Neighborhood Watch""","May 8, 2012",14.56,3,8.5
-71,ncisla,71,23,"""Sans Voir (Part I)""","May 15, 2012",15.19,3,8.1
-72,ncisla,72,24,"""Sans Voir (Part II)""","May 15, 2012",15.19,3,8.2
-73,ncisla,73,1,"""Endgame""","September 25, 2012",16.74,4,8
-74,ncisla,74,2,"""Recruit""","October 2, 2012",14.91,4,7.8
-75,ncisla,75,3,"""The Fifth Man""","October 9, 2012",15.18,4,7.9
-76,ncisla,76,4,"""Dead Body Politic""","October 23, 2012",16.53,4,7.6
-77,ncisla,77,5,"""Out of the Past""","October 30, 2012",16.28,4,7.9
-78,ncisla,78,6,"""Rude Awakenings""","November 13, 2012",15.77,4,7.9
-79,ncisla,79,7,"""Skin Deep""","November 20, 2012",15.13,4,7.7
-80,ncisla,80,8,"""Collateral""","November 27, 2012",14.49,4,7.8
-81,ncisla,81,9,"""The Gold Standard""","December 11, 2012",15.12,4,7.6
-82,ncisla,82,10,"""Free Ride""","December 18, 2012",15.48,4,8.1
-83,ncisla,83,11,"""Drive""","January 8, 2013",17.9,4,7.8
-84,ncisla,84,12,"""Paper Soldiers""","January 15, 2013",17.63,4,7.8
-85,ncisla,85,13,"""The Chosen One""","January 29, 2013",17.3,4,7.8
-86,ncisla,86,14,"""Kill House""","February 5, 2013",16.67,4,8
-87,ncisla,87,15,"""History""","February 19, 2013",16.27,4,7.6
-88,ncisla,88,16,"""Lokhay""","February 26, 2013",17.02,4,7.6
-89,ncisla,89,17,"""Wanted""","March 5, 2013",16.24,4,8
-90,ncisla,90,18,"""Red""","March 19, 2013",16.84,4,7.4
-91,ncisla,91,19,"""Red-2""","March 26, 2013",14.53,4,7.3
-92,ncisla,92,20,"""Purity""","April 9, 2013",14.1,4,7.6
-93,ncisla,93,21,"""Resurrection""","April 23, 2013",14.22,4,7.7
-94,ncisla,94,22,"""Raven & The Swans""","April 30, 2013",13.07,4,7.9
-95,ncisla,95,23,"""Parley""","May 7, 2013",13.18,4,7.9
-96,ncisla,96,24,"""Descent""","May 14, 2013",13.52,4,8.2
-97,ncisla,97,1,"""Ascension""","September 24, 2013",16.35,5,8.2
-98,ncisla,98,2,"""Impact""","October 1, 2013",15.09,5,8.1
-99,ncisla,99,3,"""Omni""","October 8, 2013",14.84,5,7.9
-100,ncisla,100,4,"""Reznikov, N.""","October 15, 2013",14.65,5,8
-101,ncisla,101,5,"""Unwritten Rule""","October 22, 2013",14.92,5,7.9
-102,ncisla,102,6,"""Big Brother""","October 29, 2013",14.95,5,7.8
-103,ncisla,103,7,"""The Livelong Day""","November 5, 2013",14.76,5,7.8
-104,ncisla,104,8,"""Fallout""","November 12, 2013",14.88,5,7.7
-105,ncisla,105,9,"""Recovery""","November 19, 2013",14.99,5,7.9
-106,ncisla,106,10,"""The Frozen Lake""","November 26, 2013",12.32,5,8.1
-107,ncisla,107,11,"""Iron Curtain Rising""","December 10, 2013",15.24,5,7.8
-108,ncisla,108,12,"""Merry Evasion""","December 17, 2013",15.58,5,8.1
-109,ncisla,109,13,"""Allegiance""","January 14, 2014",15.87,5,8.3
-110,ncisla,110,14,"""War Cries""","February 4, 2014",16.34,5,7.9
-111,ncisla,111,15,"""Tuhon""","February 25, 2014",13.15,5,8
-112,ncisla,112,16,"""Fish Out of Water""","March 4, 2014",14.37,5,7.9
-113,ncisla,113,17,"""Between the Lines""","March 18, 2014",14.21,5,7.8
-114,ncisla,114,18,"""Zero Days""","March 25, 2014",15.54,5,7.8
-115,ncisla,115,19,"""Spoils of War""","April 1, 2014",15.31,5,8.2
-116,ncisla,116,20,"""Windfall""","April 8, 2014",14.56,5,7.8
-117,ncisla,117,21,"""Three Hearts""","April 15, 2014",14.69,5,7.9
-118,ncisla,118,22,"""One More Chance""","April 29, 2014",14.83,5,7.9
-119,ncisla,119,23,"""Exposure""","May 6, 2014",14.11,5,7.6
-120,ncisla,120,24,"""Deep Trouble""","May 13, 2014",14.85,5,8.2
+"","name","number_in_series","number_in_season","Title","original_air_date","viewers","Season","Ratings"
+"1","ncisla",1,1,"""Identity""","September 22, 2009",18.73,1,7.4
+"2","ncisla",2,2,"""The Only Easy Day""","September 29, 2009",17.42,1,7.1
+"3","ncisla",3,3,"""Predator""","October 6, 2009",16.31,1,7.2
+"4","ncisla",4,4,"""Search and Destroy""","October 13, 2009",15.32,1,7.5
+"5","ncisla",5,5,"""Killshot""","October 20, 2009",16.5,1,7.5
+"6","ncisla",6,6,"""Keepin' It Real""","November 3, 2009",15.29,1,7.4
+"7","ncisla",7,7,"""Pushback""","November 10, 2009",16.19,1,7.7
+"8","ncisla",8,8,"""Ambush""","November 17, 2009",14.81,1,7.7
+"9","ncisla",9,9,"""Random on Purpose""","November 24, 2009",17.18,1,8
+"10","ncisla",10,10,"""Brimstone""","December 15, 2009",17.36,1,7.3
+"11","ncisla",11,11,"""Breach""","January 5, 2010",18.07,1,7.2
+"12","ncisla",12,12,"""Past Lives""","January 12, 2010",15.5,1,7.8
+"13","ncisla",13,13,"""Missing""","January 26, 2010",17.16,1,7.8
+"14","ncisla",14,14,"""LD50""","February 2, 2010",16.42,1,7.6
+"15","ncisla",15,15,"""The Bank Job""","February 9, 2010",17.91,1,7.7
+"16","ncisla",16,16,"""Chinatown""","March 2, 2010",14.97,1,7.3
+"17","ncisla",17,17,"""Full Throttle""","March 9, 2010",16.99,1,7.3
+"18","ncisla",18,18,"""Blood Brothers""","March 16, 2010",15.1,1,7.4
+"19","ncisla",19,19,"""Hand-to-Hand""","April 6, 2010",13.79,1,7.8
+"20","ncisla",20,20,"""Fame""","April 27, 2010",15.62,1,7.8
+"21","ncisla",21,21,"""Found""","May 4, 2010",14.34,1,8
+"22","ncisla",22,22,"""Hunted""","May 11, 2010",16.04,1,7.4
+"23","ncisla",23,23,"""Burned""","May 18, 2010",15.23,1,7.8
+"24","ncisla",24,24,"""Callen, G.""","May 25, 2010",13.12,1,7.9
+"25","ncisla",25,1,"""Human Traffic""","September 21, 2010",15.76,2,7.9
+"26","ncisla",26,2,"""Black Widow""","September 21, 2010",13.6,2,7.8
+"27","ncisla",27,3,"""Borderline""","September 28, 2010",16.51,2,7.7
+"28","ncisla",28,4,"""Special Delivery""","October 5, 2010",16.15,2,7.6
+"29","ncisla",29,5,"""Little Angels""","October 12, 2010",16.05,2,7.8
+"30","ncisla",30,6,"""Standoff""","October 19, 2010",16,2,7.8
+"31","ncisla",31,7,"""Anonymous""","October 26, 2010",15.99,2,7.7
+"32","ncisla",32,8,"""Bounty""","November 9, 2010",15.61,2,7.8
+"33","ncisla",33,9,"""Absolution""","November 16, 2010",15.81,2,7.8
+"34","ncisla",34,10,"""Deliverance""","November 23, 2010",14.96,2,7.9
+"35","ncisla",35,11,"""Disorder""","December 14, 2010",16.82,2,7.7
+"36","ncisla",36,12,"""Overwatch""","January 11, 2011",18.13,2,7.6
+"37","ncisla",37,13,"""Archangel""","January 18, 2011",17.29,2,7.7
+"38","ncisla",38,14,"""Lockup""","February 1, 2011",17.7,2,7.7
+"39","ncisla",39,15,"""Tin Soldiers""","February 8, 2011",17.16,2,7.7
+"40","ncisla",40,16,"""Empty Quiver""","February 15, 2011",16.8,2,7.8
+"41","ncisla",41,17,"""Personal""","February 22, 2011",18.69,2,8.1
+"42","ncisla",42,18,"""Harm's Way""","March 1, 2011",15.67,2,7.6
+"43","ncisla",43,19,"""Enemy Within""","March 22, 2011",16.56,2,7.7
+"44","ncisla",44,20,"""The Job""","March 29, 2011",15.34,2,7.8
+"45","ncisla",45,21,"""Rocket Man""","April 12, 2011",15.46,2,7.7
+"46","ncisla",46,22,"""Plan B.""","May 3, 2011",14.16,2,7.9
+"47","ncisla",47,23,"""Imposters""","May 10, 2011",14.74,2,7.7
+"48","ncisla",48,24,"""Familia""","May 17, 2011",15.61,2,8.1
+"49","ncisla",49,1,"""Lange, H.""","September 20, 2011",16.71,3,8.2
+"50","ncisla",50,2,"""Cyber Threat""","September 27, 2011",16.26,3,7.8
+"51","ncisla",51,3,"""Backstopped""","October 4, 2011",14.78,3,7.9
+"52","ncisla",52,4,"""Deadline""","October 11, 2011",15.4,3,7.6
+"53","ncisla",53,5,"""Sacrifice""","October 18, 2011",15.35,3,7.7
+"54","ncisla",54,6,"""Lone Wolf""","October 25, 2011",15.89,3,7.7
+"55","ncisla",55,7,"""Honor""","November 1, 2011",15.52,3,7.7
+"56","ncisla",56,8,"""Greed""","November 8, 2011",15.66,3,7.8
+"57","ncisla",57,9,"""Betrayal""","November 15, 2011",15.15,3,7.9
+"58","ncisla",58,10,"""The Debt""","November 22, 2011",14.09,3,8.1
+"59","ncisla",59,11,"""Higher Power""","December 13, 2011",16.4,3,7.8
+"60","ncisla",60,12,"""The Watchers""","January 3, 2012",17.08,3,7.7
+"61","ncisla",61,13,"""Exit Strategy""","January 10, 2012",16.6,3,7.6
+"62","ncisla",62,14,"""Partners""","February 7, 2012",16.27,3,7.9
+"63","ncisla",63,15,"""Crimeleon""","February 14, 2012",16.15,3,8.1
+"64","ncisla",64,16,"""Blye, K.""","February 21, 2012",15.47,3,8.2
+"65","ncisla",65,17,"""Blye, K., Part 2""","February 28, 2012",15.85,3,8.3
+"66","ncisla",66,18,"""The Dragon and the Fairy""","March 20, 2012",16.17,3,7.9
+"67","ncisla",67,19,"""Vengeance""","March 27, 2012",14.75,3,7.6
+"68","ncisla",68,20,"""Patriot Acts""","April 10, 2012",12.86,3,7.8
+"69","ncisla",69,21,"""Touch of Death""","May 1, 2012",15.21,3,7.9
+"70","ncisla",70,22,"""Neighborhood Watch""","May 8, 2012",14.56,3,8.4
+"71","ncisla",71,23,"""Sans Voir (Part I)""","May 15, 2012",15.19,3,7.9
+"72","ncisla",72,24,"""Sans Voir (Part II)""","May 15, 2012",15.19,3,8.1
+"73","ncisla",73,1,"""Endgame""","September 25, 2012",16.74,4,7.9
+"74","ncisla",74,2,"""Recruit""","October 2, 2012",14.91,4,7.6
+"75","ncisla",75,3,"""The Fifth Man""","October 9, 2012",15.18,4,7.8
+"76","ncisla",76,4,"""Dead Body Politic""","October 23, 2012",16.53,4,7.4
+"77","ncisla",77,5,"""Out of the Past""","October 30, 2012",16.28,4,7.8
+"78","ncisla",78,6,"""Rude Awakenings""","November 13, 2012",15.77,4,7.8
+"79","ncisla",79,7,"""Skin Deep""","November 20, 2012",15.13,4,7.6
+"80","ncisla",80,8,"""Collateral""","November 27, 2012",14.49,4,7.7
+"81","ncisla",81,9,"""The Gold Standard""","December 11, 2012",15.12,4,7.5
+"82","ncisla",82,10,"""Free Ride""","December 18, 2012",15.48,4,8
+"83","ncisla",83,11,"""Drive""","January 8, 2013",17.9,4,7.7
+"84","ncisla",84,12,"""Paper Soldiers""","January 15, 2013",17.63,4,7.6
+"85","ncisla",85,13,"""The Chosen One""","January 29, 2013",17.3,4,7.7
+"86","ncisla",86,14,"""Kill House""","February 5, 2013",16.67,4,7.9
+"87","ncisla",87,15,"""History""","February 19, 2013",16.27,4,7.4
+"88","ncisla",88,16,"""Lokhay""","February 26, 2013",17.02,4,7.5
+"89","ncisla",89,17,"""Wanted""","March 5, 2013",16.24,4,7.9
+"90","ncisla",90,18,"""Red""","March 19, 2013",16.84,4,7.3
+"91","ncisla",91,19,"""Red-2""","March 26, 2013",14.53,4,7.1
+"92","ncisla",92,20,"""Purity""","April 9, 2013",14.1,4,7.5
+"93","ncisla",93,21,"""Resurrection""","April 23, 2013",14.22,4,7.6
+"94","ncisla",94,22,"""Raven & The Swans""","April 30, 2013",13.07,4,7.7
+"95","ncisla",95,23,"""Parley""","May 7, 2013",13.18,4,7.8
+"96","ncisla",96,24,"""Descent""","May 14, 2013",13.52,4,8.1
+"97","ncisla",97,1,"""Ascension""","September 24, 2013",16.35,5,8.1
+"98","ncisla",98,2,"""Impact""","October 1, 2013",15.09,5,8
+"99","ncisla",99,3,"""Omni""","October 8, 2013",14.84,5,7.8
+"100","ncisla",100,4,"""Reznikov, N.""","October 15, 2013",14.65,5,7.9
+"101","ncisla",101,5,"""Unwritten Rule""","October 22, 2013",14.92,5,7.8
+"102","ncisla",102,6,"""Big Brother""","October 29, 2013",14.95,5,7.7
+"103","ncisla",103,7,"""The Livelong Day""","November 5, 2013",14.76,5,7.6
+"104","ncisla",104,8,"""Fallout""","November 12, 2013",14.88,5,7.6
+"105","ncisla",105,9,"""Recovery""","November 19, 2013",14.99,5,7.8
+"106","ncisla",106,10,"""The Frozen Lake""","November 26, 2013",12.32,5,7.9
+"107","ncisla",107,11,"""Iron Curtain Rising""","December 10, 2013",15.24,5,7.6
+"108","ncisla",108,12,"""Merry Evasion""","December 17, 2013",15.58,5,8
+"109","ncisla",109,13,"""Allegiance""","January 14, 2014",15.87,5,8.2
+"110","ncisla",110,14,"""War Cries""","February 4, 2014",16.34,5,7.7
+"111","ncisla",111,15,"""Tuhon""","February 25, 2014",13.15,5,7.9
+"112","ncisla",112,16,"""Fish Out of Water""","March 4, 2014",14.37,5,7.8
+"113","ncisla",113,17,"""Between the Lines""","March 18, 2014",14.21,5,7.7
+"114","ncisla",114,18,"""Zero Days""","March 25, 2014",15.54,5,7.7
+"115","ncisla",115,19,"""Spoils of War""","April 1, 2014",15.31,5,8.1
+"116","ncisla",116,20,"""Windfall""","April 8, 2014",14.56,5,7.7
+"117","ncisla",117,21,"""Three Hearts""","April 15, 2014",14.69,5,7.7
+"118","ncisla",118,22,"""One More Chance""","April 29, 2014",14.83,5,7.7
+"119","ncisla",119,23,"""Exposure""","May 6, 2014",14.11,5,7.4
+"120","ncisla",120,24,"""Deep Trouble""","May 13, 2014",14.85,5,8.1
